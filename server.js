@@ -1,6 +1,6 @@
-const keyFilename="./my-private-api-key-file.json"; //replace this with api key file
-const projectId = "my-project-id-should-go-here" //replace with your project id
-const bucketName = `${projectId}.appspot.com`;
+const keyFilename="./it60-42-choen-savoey-59a3efed1682.json"; //replace this with api key file
+const projectId = "it60-42-choen-savoey" //replace with your project id
+const bucketName = `${it60-42-choen-savoey}.appspot.com`;
 
 const mime = require('mime');
 const gcs = require('@google-cloud/storage')({
